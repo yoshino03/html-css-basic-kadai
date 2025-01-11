@@ -1,0 +1,31 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+html {
+  font-size: 20px;
+  text-align: center;
+}
+.blue {
+  color: Skyblue;
+}
+.pink {
+  color: rgb(255,192,203);
+}
+h1 {
+  font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+  letter-spacing: 1.5em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+#basic {
+  font-weight: bold;
+}
+
+/* テキストは、全て中央寄せにしてください。 */
+/* 「名前」～「血液型」までの要素をid属性basicのdivタグで囲います。 */
+/* 次に子孫要素の考え方を利用して、「侍太郎」「1990年1月1日」「O型」を太字にしてください。 */
+/* それ以外のp要素は太字にならないよう注意してください。 */
